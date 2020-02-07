@@ -40,3 +40,8 @@ pip install tensorflow
 
 pip install tflearn
 ```
+## License & Copyright
+© [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
+
+Licensed under the [MIT License](License)
+
